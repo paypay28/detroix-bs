@@ -133,7 +133,7 @@ body{
 }
 
 #ms2Row{
-    border-top: 1px solid blueviolet;
+    border-top: 1px solid black;
 }
 
 @media (max-width:767px){
